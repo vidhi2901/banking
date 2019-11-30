@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="MercuryTours_week4.scenario2_week4"/>
+      <class name="MercuryTours_week4.scenario1_week4Test"/>
+      <class name="MercuryTours_week4.sceanrio3_week4"/>
+      <class name="MercuryTours_week4.scen2_week4"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
