@@ -48,7 +48,7 @@ public class sceanrio3_week4 {
 				  
 				  if (ActualTitle.equals(ExpectedTitle))
 						  {
-					  System.out.println("Test case is done");
+					  System.out.println("Test case is passed");
 						  }
 
 			}
